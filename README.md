@@ -2,5 +2,5 @@
 <br/>
 ### Languages and tools i work with: 
 <code>
-  <img src="https://thumbnail.imgbin.com/2/16/25/imgbin-responsive-web-design-html5-cascading-style-sheets-html-5-css-astrophytum-D6um1jcvKbgDtXyGuMSDU1AFj_t.jpg" height="25px"
+  <img src="https://thumbnail.imgbin.com/2/16/25/imgbin-responsive-web-design-html5-cascading-style-sheets-html-5-css-astrophytum-D6um1jcvKbgDtXyGuMSDU1AFj_t.jpg" height="35px"
 </code>
