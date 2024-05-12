@@ -2,5 +2,5 @@
 <br/>
 ### Languages and tools i work with: 
 <code>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDdAHJgXP_Sdl0UgToMIN5ztuPWpQaltYvX3bdcMFbxhaAXXifVPwM7Oovqaw4M5fIliA&usqp=CAU" height="35px"
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDdAHJgXP_Sdl0UgToMIN5ztuPWpQaltYvX3bdcMFbxhaAXXifVPwM7Oovqaw4M5fIliA&usqp=CAU" height="45px"
 </code>
